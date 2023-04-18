@@ -21,3 +21,5 @@ Here are some instructions:
 9. Everyone has got full control to this repo as being collaborater so you can create branches,etc as you want.
    Keep it mind it must not be unuseful taking space as you didnt get unlimited space here.
 10.Please don't try to skip reading.
+
+Use Basic structure given to make codes it is latest and most efficient for basics.
